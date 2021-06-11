@@ -14,7 +14,7 @@ Run the app
 
 Direct installation 
 
-Download the apk from Githu and install in your android mobile device
+Download the apk from Github and install in your android mobile device
 
 Launch the application.
 
