@@ -1,4 +1,4 @@
-# nyt_most_viewed-
+# nyt_most_viewe_artcles
 An android application displaying content from NYT Most View articles API.
 
 Installation Guide
