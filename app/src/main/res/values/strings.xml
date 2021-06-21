@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The New York Times</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="name">Golebileone Setlamelo</string>
+    <string name="email">gsetlamelo@gmail.com</string>
+    <string name="desription">Build a simple app to hit the NY Times Most Popular Articles API and show a list of articles, that shows details when items on the list are tapped (a typical master/detail app).Obtain an API key from the NY Times by following the link https://developer.nytimes.com/get-started.</string>
+</resources>

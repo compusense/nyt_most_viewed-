@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D50000</color>
+    <color name="colorPrimaryDark">#020309</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="wallet_holo_blue_light">#00B8D4</color>
+</resources>
